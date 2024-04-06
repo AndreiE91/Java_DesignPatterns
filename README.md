@@ -1,6 +1,6 @@
 # Zombie Survival Design Patterns Showcase
 
-Welcome to the Zombie Survival Design Patterns Showcase! In this project, we demonstrate various design patterns applied to a zombie-themed scenario to enhance the survivability of our survivors.
+Welcome to the Zombie Survival Design Patterns Showcase! In this project, we demonstrate various design patterns applied to a zombie-themed scenario to illustrate their benefits in making the code more modular and easier to maintain.
 
 ## Table of Contents
 
